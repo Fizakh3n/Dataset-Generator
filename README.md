@@ -31,6 +31,14 @@ The AI-Powered Dataset Generator is a user-friendly web application built with S
    ```bash
    streamlit run app.py
 
+## Usage
+1. Open your web browser and navigate to the following URL to access the app: [Dataset Generator ](<https://dataset-generator-bkh3oqq699ty8djjjwsq4q.streamlit.app/>).
+
+2. Use the sidebar to select a category, specify the number of rows, customize column names and types, and click on "Generate Dataset" to create your dataset.
+
+3. Review the generated dataset preview and quick summary statistics, and download the dataset as a CSV file.
+
+
 ## Contribution
 Contributions are welcome! If you have suggestions for improvements or additional features, feel free to create an issue or submit a pull request.
 
