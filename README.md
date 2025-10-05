@@ -31,6 +31,9 @@ The AI-Powered Dataset Generator is a user-friendly web application built with S
    ```bash
    streamlit run app.py
 
+4. Access the live app here: [Streamlit App](https://dataset-generator-fizakh3n.streamlit.app/)
+
+
 ## Usage
 1. Open your web browser and navigate to the following URL to access the app: [Dataset Generator ](<https://dataset-generator-bkh3oqq699ty8djjjwsq4q.streamlit.app/>).
 
